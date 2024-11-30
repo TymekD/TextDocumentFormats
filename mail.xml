@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mail>
+	<sender>XYZ</sender>
+	<recipient>ABC</recipient>
+	<subject>SUBJECT</subject>
+	<messageBody>
+		<heading>Reminder</heading>
+	</messageBody>
+</mail>

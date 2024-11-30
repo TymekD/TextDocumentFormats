@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+	<car>
+		<frequency>Low</frequency>
+		<destination>Mostly Volleyball practice</destination>
+		<rating scale="1-5" points="3" />
+		<avPrice>Low - Mid</avPrice>
+	</car>
+
+	<train>
+		<frequency>Frequent</frequency>
+		<destination>Work and visiting family</destination>
+		<rating scale="1-7" points="6" />
+		<avPrice>Low</avPrice>
+	</train>
+
+	<plane>
+		<frequency>REALLY Low</frequency>
+		<destination>Holidays</destination>
+		<rating scale="1-10" points="2" />
+		<avPrice>Mostly high</avPrice>
+	</plane>
+</transport>
