@@ -1,0 +1,20 @@
+{
+    "ticketNumber": "A123456789",
+    "passengerName": "XYZ",
+    "trainNumber": 1234,
+    "departure": {
+        "station": "Krakow Glowny",
+        "date": "15/12/2024",
+        "time": "14:30"
+    },
+    "arrival": {
+        "station": "Warszawa Glowna",
+        "date": "15/12/2024",
+        "time": "18:00"
+    },
+    "seat": {
+        "car": 5,
+        "number": 21
+    },
+    "price": 49.99,
+}
