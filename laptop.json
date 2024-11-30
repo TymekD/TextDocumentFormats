@@ -6,5 +6,5 @@
 "devices": ["touchpad","webcam"]
 "screenSize": 19,
 "keyboardType": "German",
-"screenRefreshRate":"60Hz",
+"screenRefreshRate":"60Hz", 
 }
